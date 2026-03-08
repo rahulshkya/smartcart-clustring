@@ -63,7 +63,7 @@ This visualization is the most crucial for driving business growth and marketing
 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/rahulshkya/SmartCart-Customer-Segmentation.git](https://github.com/rahulshkya/SmartCart-Customer-Segmentation.git)
+   git clone https://github.com/rahulshkya/smartcart-clustring.git
 
 2. Install Dependencies:
    ```bash
